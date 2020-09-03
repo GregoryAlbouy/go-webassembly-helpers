@@ -1,4 +1,4 @@
-package wadom
+package wasm
 
 import (
 	"syscall/js"
