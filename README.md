@@ -4,7 +4,7 @@ Go helpers for communication with JavaScript properties, functions and DOM in th
 
 ## Documentation
 
-:pointer_right: [GoDoc](https://pkg.go.dev/github.com/gregoryalbouy/go-webassembly-helpers?tab=doc)
+:point_right: [GoDoc](https://pkg.go.dev/github.com/gregoryalbouy/go-webassembly-helpers?tab=doc)
 
 ## Todo
 
