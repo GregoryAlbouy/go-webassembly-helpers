@@ -1,4 +1,4 @@
-# go-webassembly-dom
+# go-webassembly-helpers
 
 Go helpers for communication with JavaScript properties, functions and DOM in the context of WebAssembly.
 
